@@ -1,0 +1,1 @@
+<h2>Example view called but it is accessed by controller</h2>

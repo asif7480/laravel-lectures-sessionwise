@@ -1,0 +1,1 @@
+<h2>hello to the example route</h2>
